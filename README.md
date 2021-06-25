@@ -2,7 +2,7 @@
 Front-end developer
 
 [![Linkedin Badge](https://img.shields.io/badge/-@joaovsbraz-6633cc?style=flat-square&labelColor=6633cc&logo=linkedin&logoColor=white&link=https://linkedin.com/in/joaovsbraz)](https://linkedin.com/in/joaovsbraz)
-[![Twitter Badge](https://img.shields.io/badge/-@joaovsbraz-6633cc?style=flat-square&labelColor=6633cc&logo=twitter&logoColor=white&link=https://twitter.com/joaovsbraz)](https://twitter.com/dieegosf)
+[![Twitter Badge](https://img.shields.io/badge/-@joaovsbraz-6633cc?style=flat-square&labelColor=6633cc&logo=twitter&logoColor=white&link=https://twitter.com/joaovsbraz)](https://twitter.com/JoaoVSBraz)
 
 I love to study and learn new things. I have a special appreciation about the technology and education areas.
 
