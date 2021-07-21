@@ -6,7 +6,7 @@ Front-end developer
 
 I love to study and learn new things. I have a special appreciation about the technology and education areas.
 
-"If educaton alone do not transform the society, without it neither the society change"
+"If education alone do not transform the society, without it neither the society change"
 
 ## Technologies
 <img height="32" width="32" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" /><img height="32" width="32" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" /><img height="32" width="32" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg" />
