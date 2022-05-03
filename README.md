@@ -1,8 +1,8 @@
 # João Braz
 Front-end developer
 
-[![Linkedin Badge](https://img.shields.io/badge/-@joaovsbraz-6633cc?style=flat-square&labelColor=26ff93&logo=linkedin&logoColor=white&link=https://linkedin.com/in/joaovsbraz)](https://linkedin.com/in/joaovsbraz)
-[![Twitter Badge](https://img.shields.io/badge/-@joaovsbraz-6633cc?style=flat-square&labelColor=26ff93&logo=twitter&logoColor=white&link=https://twitter.com/joaovsbraz)](https://twitter.com/JoaoVSBraz)
+[![Linkedin Badge](https://img.shields.io/badge/-@joaovsbraz-0af59f?style=flat-square&labelColor=0af59f&logo=linkedin&logoColor=white&link=https://linkedin.com/in/joaovsbraz)](https://linkedin.com/in/joaovsbraz)
+[![Twitter Badge](https://img.shields.io/badge/-@joaovsbraz-0af59f?style=flat-square&labelColor=0af59f&logo=twitter&logoColor=white&link=https://twitter.com/joaovsbraz)](https://twitter.com/JoaoVSBraz)
 
 Hi, I'm João Braz. Passionate about technology and education.
 
