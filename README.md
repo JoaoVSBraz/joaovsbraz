@@ -8,7 +8,7 @@ Hi, I'm João Braz. Passionate about technology and education.
 
 - 👨‍🎓 Actually focused on complete my degree in Analisys and System Development
 - ⚛️ I'm currently learning ReactJS
-- 👨‍💻 I'm front-end developer at Wipro
+- 👨‍💻 I'm fullstack developer at Wipro
 
 ## Technologies
 <img height="32" width="32" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" /><img height="32" width="32" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" /><img height="32" width="32" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg" />
