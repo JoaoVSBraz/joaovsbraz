@@ -1,5 +1,5 @@
 # João Braz
-Front-end developer
+Fullstack developer
 
 [![Linkedin Badge](https://img.shields.io/badge/-@joaovsbraz-7a07f5?style=flat-square&labelColor=7a07f5&logo=linkedin&logoColor=white&link=https://linkedin.com/in/joaovsbraz)](https://linkedin.com/in/joaovsbraz)
 [![Twitter Badge](https://img.shields.io/badge/-@joaovsbraz-7a07f5?style=flat-square&labelColor=7a07f5&logo=twitter&logoColor=white&link=https://twitter.com/joaovsbraz)](https://twitter.com/JoaoVSBraz)
