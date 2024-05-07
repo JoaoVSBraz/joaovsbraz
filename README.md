@@ -3,7 +3,6 @@
 # Hi, I'm João Braz
 
 - 💻 Fullstack developer
-- 📒 Currently learning PHP
 -  🎸 Some of my hobbies are play guitar, sing and play games
 
 ## Technologies and tools
